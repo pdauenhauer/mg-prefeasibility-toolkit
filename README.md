@@ -1,4 +1,4 @@
-# mg-prefeasibility-toolkit
+# Microgrid Pre-Feasibility Toolkit
 
 Development of off-grid electricity access projects in developing countries can be transformational for
 the communities involved, but they entail considerable complex planning and development to be
